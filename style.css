@@ -16,3 +16,22 @@ a:hover {
 a:active {
   color: blue;
 }
+
+.body{
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	}
+	
+.main {
+	display: flex;
+	flex: auto;
+	}
+
+.aside {
+	flex: 1;
+	}
+	
+.article {
+	flex: 3;
+	}
