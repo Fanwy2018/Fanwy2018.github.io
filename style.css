@@ -38,6 +38,10 @@ l{
 justify-content: flex-end;
 }
 
+footer{
+align-items: flex-end;
+}
+
 img.small{
   width:200px;
   heigth:200px;
