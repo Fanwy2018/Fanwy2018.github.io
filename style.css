@@ -34,4 +34,7 @@ aside{
 article{
 	flex: 3;
 	}
-
+img.small{
+  width:200px;
+  heigth:200px;
+}
