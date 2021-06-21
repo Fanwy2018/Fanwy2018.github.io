@@ -17,22 +17,22 @@ a:active {
   color: blue;
 }
 
-.A{
+A{
   display: flex;
   flex-direction: column;
 }
 
-.B{
+B{
 	display: flex
 	flex: auto;
 	}
 
-.C{
+C{
 	display: flex
 	flex: 1;
 	}
 	
-.D{
+D{
 	display: flex
 	flex: 3;
 	}
