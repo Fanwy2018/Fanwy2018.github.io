@@ -18,19 +18,22 @@ a:active {
 }
 
 .A{
-	display: flex;
+  display: flex;
   flex-direction: column;
 }
 
 .B{
+	display: flex
 	flex: auto;
 	}
 
 .C{
+	display: flex
 	flex: 1;
 	}
 	
 .D{
+	display: flex
 	flex: 3;
 	}
 
