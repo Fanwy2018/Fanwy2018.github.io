@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
     targetImage.addEventListener("click", function() {
     alert("click img");
     if (targetImage.classList.contains("small")) {
-  targetImage.classList.remove("small")
+  targetImage.classList.remove("small");
   }
   else
-  	{targetImage.classList.add("small")}
+  	{targetImage.classList.add("small");}
 })
 });
