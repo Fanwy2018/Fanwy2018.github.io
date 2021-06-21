@@ -17,21 +17,21 @@ a:active {
   color: blue;
 }
 
-A{
+body{
   display: flex;
   flex-direction: column;
 }
 
-B{
-
+main{
+   display: flex;
 	flex: auto;
 	}
 
-C{
+aside{
 	flex: 1;
 	}
 	
-D{
+article{
 	flex: 3;
 	}
 
