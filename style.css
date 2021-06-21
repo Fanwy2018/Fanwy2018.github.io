@@ -40,6 +40,8 @@ justify-content: flex-end;
 
 footer{
 align-items: flex-end;
+font-size:60px;
+color:bule;
 }
 
 img.small{
